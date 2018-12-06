@@ -14,7 +14,7 @@ static NSString * const numberCellText = @"0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n1\n2
 
 @property (nonatomic, strong) NSMutableArray *cellArray;    // 位数Label数组
 @property (nonatomic, assign) CGSize cellSize;              // 各位Label视图大小
-@property (nonatomic, assign) CGFloat labelHeight;          // 视图高度
+@property (nonatomic, assign) CGFloat labelHeight;          // 视图高度的
 
 @end
 
